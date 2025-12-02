@@ -6,7 +6,7 @@ The Chinese Cookbook Constellation is a digital humanities project that visualiz
 The project employs network analysis to model recipe evolution, treating recipes as nodes and culinary modifications as edges. By visualizing these relationships, it seeks to reveal patterns of cultural transmission, ingredient substitution, and culinary adaptation across the Chinese diaspora.
 
 ## Quick Links
-* [Interactive Network](https://drive.google.com/file/d/153bSqMdwN71udUe0atZiBvOAiv8oQbvb/view?usp=drive_link)
+* [Interactive Network](https://drive.google.com/file/d/1RSUZwUOZk31J5raXCTMb-77FIremafJ-/view?usp=drive_link)
   * [Web Application Deployment Guide](https://docs.google.com/document/d/14ethiIDQzGTZfW7PHIgNP_ZynI2fMAYqP0Nnckt7GwM/edit?tab=t.0#heading=h.uw1lfba1185f)
 * [Explore the Data](https://docs.google.com/spreadsheets/d/11ro5JIeI-dUnbuYTjicrvfWkwyEEK2aS27_TK6coVgQ/edit?usp=sharing)
 * [Methods](https://docs.google.com/document/d/1-BEsteVeUbdjJAXW2pJfla9ywkAtn0dsxzq6WnYi_bU/edit?usp=sharing)
