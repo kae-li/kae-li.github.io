@@ -13,9 +13,12 @@ The project employs network analysis to model recipe evolution, treating recipes
 ## Core Features
 * Network Visualization: Recipe evolution mapped in Cytoscape
 * Color-Coded Modifications:
-  * Purple = Inserts (ingredient addition not present in the souce recipe)
-  * Magenta = Deletes (ingredient omission from the source recipe)
-  * Orange = Updates (replacement of ingredeint from the source recipe)
+  * Insert = Purple
+    * Ingredient addition to the source recipe
+  * Delete = Magenta
+    * Ingredient omission from the source recipe
+  * Update = Orange
+    * Ingredient replacement from the source recipe
 * Multi-Author Analysis: Recipes from 5 modern chefs compared to 1917 originals
   * Chan, Shiu-Wong – *The Chinese Cook Book* = Red
   * Goh, Marvellina – *What To Cook Today* = Orange
