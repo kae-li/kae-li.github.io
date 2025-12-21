@@ -8,7 +8,6 @@ The project employs network analysis to model recipe evolution, treating recipes
 ## Quick Links
 * [Website + Interactive Network](https://kae-li.github.io/CCC/)
 * [Explore the Data](https://docs.google.com/spreadsheets/d/11ro5JIeI-dUnbuYTjicrvfWkwyEEK2aS27_TK6coVgQ/edit?usp=sharing)
-* [Methods](https://docs.google.com/document/d/1-BEsteVeUbdjJAXW2pJfla9ywkAtn0dsxzq6WnYi_bU/edit?usp=sharing)
 
 ## Core Features
 * Network Visualization: Recipe evolution mapped in Cytoscape
